@@ -1,12 +1,13 @@
 {
-    "intro": {
-        "title": "title",
-        "subtitle": "subtitle",
-        "category": "category"
-    },
-    "chapter1": {
-        "summary": "summary",
-        "longtext": "longtext"
+    "parts": {
+        "intro": {
+            "title": "title",
+            "subtitle": "subtitle",
+            "category": "category"
+        },
+        "chapter1": {
+            "summary": "summary",
+            "longtext": "longtext"
+        }
     }
-
 }
